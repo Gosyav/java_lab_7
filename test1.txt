@@ -1,4 +1,0 @@
-This is my original text for the plagiarism checker.
-It contains a couple of simple sentences.
-The quick brown fox jumps over the lazy dog.
-Nothing very special is happening here.

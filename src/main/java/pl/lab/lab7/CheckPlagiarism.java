@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class CheckPlagiarism {
-  public static double threshold = 20.0;
+  public static double threshold = 5.0;
 
   private final Hamming hamming;
 
